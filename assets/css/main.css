@@ -2529,7 +2529,7 @@ input, select, textarea {
 		.button.primary {
 			box-shadow: none;
 			background-color: #585858;
-			color: #ffffff !important;
+			color: #740c0c !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2671,7 +2671,7 @@ input, select, textarea {
 				padding: 1em;
 				border-radius: 4px;
 				border-bottom: 0;
-				color: #ffffff;
+				color: #750404;
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
@@ -2682,7 +2682,7 @@ input, select, textarea {
 				}
 
 				.tiles article > a:hover {
-					color: #ffffff !important;
+					color: #630707 !important;
 				}
 
 				.tiles article > a h2 {
@@ -2891,7 +2891,7 @@ input, select, textarea {
 						height: 3em;
 						line-height: 3em;
 						padding: 0 1.5em;
-						background-color: rgba(255, 255, 255, 0.5);
+						background-color: rgba(2, 100, 100, 0.5);
 						border-radius: 4px;
 						border: 0;
 						font-size: 0.8em;
@@ -2989,7 +2989,7 @@ input, select, textarea {
 		height: 100%;
 		-webkit-overflow-scrolling: touch;
 		background: #585858;
-		color: #ffffff;
+		color: #680505;
 		cursor: default;
 		visibility: hidden;
 		z-index: 10002;
@@ -3166,7 +3166,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		background-color: #fdfdfd;
 	}
 
 		#footer > .inner {
