@@ -2146,7 +2146,7 @@ input, select, textarea {
 		background-color: transparent;
 		border: none;
 		border-radius: 0;
-		border-bottom: solid 1px #01125ec9;
+		border-bottom: solid 1px #ffffff;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -2185,7 +2185,7 @@ input, select, textarea {
 	}
 
 		select option {
-			background: #ffffff;
+			background: #1b2c8f;
 		}
 
 		select:focus::-ms-value {
